@@ -1,0 +1,15 @@
+Q.1	What are the total number of trips and total fare collected in each city?	
+
+Q.2	How does total fare vary across months and customer segments?			
+		
+Q.3	How do repeat trips compare with new trips across different customer segments?	
+
+Q.4	How does driver rating change with trip distance?		
+
+Q.5	What are the driver ratings and average trip distances in different regions?	
+
+Q.6	What is the average fare per trip and per kilometre in each city?			
+		
+
+		
+
